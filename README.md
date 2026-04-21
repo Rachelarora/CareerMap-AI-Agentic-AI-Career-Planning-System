@@ -53,15 +53,6 @@ Resume Upload → Skill Extraction → Market Analysis → Gap Detection → Roa
   👉 Experience the live application here  
 </p>
 
-
----
-## ▶️ Run Locally
-git clone [https://github.com/your-username/careermap-ai.git](https://github.com/Rachelarora/CareerMap-AI---Agentic-AI-Autonomous-Career-Planning-System/tree/main) 
-
-cd careermap-ai  
-pip install -r requirements.txt  
-streamlit run app.py  
-
 ---
 ## ⭐ Show Your Support
 If you like this project, give it a ⭐ on GitHub!
