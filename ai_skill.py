@@ -37,9 +37,9 @@ python, sql, machine learning, data analysis
 
         skills_text = response.choices[0].message.content.lower()
 
-        # -----------------------------
-        # 🔥 CLEANING (VERY IMPORTANT)
-        # -----------------------------
+       
+        # CLEANING
+        
 
         # Remove numbering like "1. skill"
         skills_text = re.sub(r"\d+\.", "", skills_text)
@@ -50,9 +50,7 @@ python, sql, machine learning, data analysis
         # Clean & remove empty
         skills = [s.strip() for s in skills if s.strip() != ""]
 
-        # -----------------------------
-        # ⚠️ SAFETY FALLBACK
-        # -----------------------------
+    
         if len(skills) < 3:
             return ["python", "sql", "excel", "communication"]
 
