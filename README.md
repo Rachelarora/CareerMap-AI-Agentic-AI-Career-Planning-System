@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&logo=streamlit">
   <img src="https://img.shields.io/badge/AI-LLM-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
 </p>
@@ -40,18 +39,6 @@ CareerMap AI is an **Agentic AI-powered system** that analyzes resumes, identifi
 Resume Upload → Skill Extraction → Market Analysis → Gap Detection → Roadmap Generation
 
 ---
-
-## 🌐 Live Demo / View Project  
-
-<p align="center">
-  <a href="[(https://careermap-ai.streamlit.app/)]" target="_blank">
-    <img src="https://img.shields.io/badge/Launch%20App-CareerMap%20AI-blue?style=for-the-badge&logo=streamlit">
-  </a>
-</p>
-
-<p align="center">
-  👉 Experience the live application here  
-</p>
 
 ---
 ## ⭐ Show Your Support
